@@ -1,0 +1,59 @@
+{
+  "_args": [
+    [
+      "react-native-exit-app@1.0.0",
+      "F:\\App2\\App"
+    ]
+  ],
+  "_from": "react-native-exit-app@1.0.0",
+  "_id": "react-native-exit-app@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha1-ovuxIdkC5pZ82KNl/oRT5cS8MXI=",
+  "_location": "/react-native-exit-app",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-exit-app@1.0.0",
+    "name": "react-native-exit-app",
+    "escapedName": "react-native-exit-app",
+    "rawSpec": "1.0.0",
+    "saveSpec": null,
+    "fetchSpec": "1.0.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "http://registry.npm.taobao.org/react-native-exit-app/download/react-native-exit-app-1.0.0.tgz",
+  "_spec": "1.0.0",
+  "_where": "F:\\App2\\App",
+  "author": {
+    "name": "Wumke"
+  },
+  "bugs": {
+    "url": "https://github.com/wumke/react-native-exit-app/issues"
+  },
+  "description": "Exit,close,kill,shutdown app completely for React Native on iOS and Android.",
+  "homepage": "http://watchwimswork.be",
+  "keywords": [
+    "react",
+    "native",
+    "exit",
+    "close",
+    "shutdown",
+    "kill",
+    "android",
+    "ios"
+  ],
+  "license": "GPLv3",
+  "main": "index.js",
+  "name": "react-native-exit-app",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wumke/react-native-exit-app.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
